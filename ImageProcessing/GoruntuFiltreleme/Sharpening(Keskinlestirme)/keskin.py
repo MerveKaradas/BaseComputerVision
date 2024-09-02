@@ -1,0 +1,1 @@
+#Görüntüdeki kenarları ve detayları netleştirmek için keskinleştirme filtreleri uygulama.
